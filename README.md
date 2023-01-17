@@ -8,7 +8,7 @@
 
 
 <div align="center">  
-<a href="www.instagram.com/mats.sant"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.instagram.com/mats.sant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 <div align="center">  
